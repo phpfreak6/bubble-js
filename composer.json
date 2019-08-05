@@ -2,5 +2,20 @@
     "name": "petcloud/js-info-bubble",
     "type": "git",
     "description": "js-info-bubble.",
-    "license": "MIT"
+    "license": "MIT",
+    "keywords": [
+    "google",
+    "marker",
+    "infowindow",
+    "javascript",
+    "js",
+    "api",
+    "v3"
+    ],
+    "minimum-stability": "stable",
+    "extra": {
+        "branch-alias": {
+            "release/0.8": "master"
+        }
+    }
 }
